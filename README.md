@@ -25,38 +25,78 @@
 
 ## 📚 Questões VisualG
 
-1 - Problema "idades"  
-Fazer um programa para ler o nome e idade de duas pessoas. Ao final mostrar uma mensagem com os 
-nomes e a idade média entre essas pessoas, com uma casa decimal, conforme exemplo. 
-2 - Problema "soma" 
-Fazer um programa para ler dois valores inteiros X e Y, e depois mostrar na tela o valor da soma destes 
-números. 
-3 - Problema "troco" 
-Fazer um programa para calcular o troco no processo de pagamento de um produto de uma mercearia. 
-O programa deve ler o preço unitário do produto, a quantidade de unidades compradas deste produto, 
-e o valor em dinheiro dado pelo cliente (suponha que haja dinheiro suficiente). Seu programa deve 
-mostrar o valor do troco a ser devolvido ao cliente. 
-4 - Problema "circulo"  
-Fazer um programa para ler o valor "r" do raio de um círculo, e depois mostrar o valor da área do 
-círculo com três casas decimais. A fórmula da área do círculo é a seguinte: 𝑎𝑟𝑒𝑎 = 𝜋.𝑟 . Você pode 
-usar o valor de 𝜋 fornecido pela biblioteca da sua linguagem de programação, ou então, se preferir, use 
-diretamente o valor 3.14159. 
-5 - Problema "pagamento" 
-Fazer um programa para ler o nome de um(a) funcionário(a), o valor que ele(a) recebe por hora, e a 
-quantidade de horas trabalhadas por ele(a). Ao final, mostrar o valor do pagamento do funcionário com 
-uma mensagem explicativa, conforme exemplo. 
-6 - Problema "consumo" 
-Fazer um programa para ler a distância total (em km) percorrida por um carro, bem como o total de 
-combustível gasto por este carro ao percorre
-7 - Problema "medidas" 
-Fazer um programa para ler três medidas A, B e C. Em seguida, calcular e mostrar (imprimir os dados 
-com quatro casas decimais): 
-a) a área do quadrado que tem lado A 
-b) a área do triângulo retângulo que base A e altura B 
-c) a área do trapézio que tem bases A e B, e altura C 
-8 - Problema "duracao" 
-Fazer um programa para ler uma duração de tempo em segundos, daí imprimir na tela esta duração no 
-formato horas:minutos:segundos. 
+### 1 - Problema "Idades"
+
+**Descrição:**  
+Fazer um programa para ler o nome e idade de duas pessoas.  
+Ao final, mostrar uma mensagem com os nomes e a **idade média** entre essas pessoas, com uma casa decimal.
+
+---
+
+### 2 - Problema "Soma"
+
+**Descrição:**  
+Fazer um programa para ler dois valores inteiros X e Y, e depois mostrar na tela o valor da **soma** destes números.
+
+---
+
+### 3 - Problema "Troco"
+
+**Descrição:**  
+Fazer um programa para calcular o **troco** no processo de pagamento de um produto de uma mercearia.  
+Entradas:
+- Preço unitário do produto
+- Quantidade de unidades compradas
+- Valor em dinheiro dado pelo cliente  
+Saída: valor do troco a ser devolvido.
+
+---
+
+### 4 - Problema "Círculo"
+
+**Descrição:**  
+Fazer um programa para ler o valor `r` do **raio de um círculo**, e depois mostrar o valor da **área** com **três casas decimais**.  
+Fórmula: `área = π * r^2`
+
+---
+
+### 5 - Problema "Pagamento"
+
+**Descrição:**  
+Fazer um programa para ler:
+- Nome do funcionário(a)
+- Valor por hora trabalhada
+- Quantidade de horas  
+Resultado: mostrar o **pagamento total** com mensagem explicativa.
+
+---
+
+### 6 - Problema "Consumo"
+
+**Descrição:**  
+Fazer um programa para ler:
+- Distância total percorrida (km)
+- Combustível gasto (litros)  
+Resultado: mostrar o **consumo médio** (km/l).
+
+---
+
+### 7 - Problema "Medidas"
+
+**Descrição:**  
+Fazer um programa para ler três medidas: A, B e C. Calcular:
+- Área do quadrado com lado A
+- Área do triângulo retângulo (base A, altura B)
+- Área do trapézio (bases A e B, altura C)  
+Mostrar os resultados com **quatro casas decimais**.
+
+---
+
+### 8 - Problema "Duração"
+
+**Descrição:**  
+Fazer um programa para ler uma **duração de tempo em segundos**, e imprimir essa duração no formato `horas:minutos:segundos`.
+
 
 ---
 
